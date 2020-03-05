@@ -11,3 +11,5 @@
 - Getting Started with Images
 - Getting Started with Videos
 - Drawing Functions in OpenCV
+- Mouse as a Paint-Brush
+- Trackbar as the Color Palette
