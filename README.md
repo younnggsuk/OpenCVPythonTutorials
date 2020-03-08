@@ -17,3 +17,4 @@
 #### [3. Core Operations](./ch3)
 - Basic Operations on Images
 - Arithmetic Operations on Images
+- Performance Measurement and Improvement Techniques
