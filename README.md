@@ -13,3 +13,7 @@
 - Drawing Functions in OpenCV
 - Mouse as a Paint-Brush
 - Trackbar as the Color Palette
+
+#### [3. Core Operations](./ch3)
+- Basic Operations on Images
+- Arithmetic Operations on Images
