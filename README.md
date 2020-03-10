@@ -22,3 +22,4 @@
 #### [4. Image Processing in OpenCV](./ch4)
 - Changing Colorspaces
 - Geometric Transformations of Images
+- Image Thresholding
