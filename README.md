@@ -23,3 +23,4 @@
 - Changing Colorspaces
 - Geometric Transformations of Images
 - Image Thresholding (확률 통계 공부 후 Otsu's binarization 구현하기)
+- Smoothing Images
