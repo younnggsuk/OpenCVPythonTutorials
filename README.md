@@ -22,4 +22,4 @@
 #### [4. Image Processing in OpenCV](./ch4)
 - Changing Colorspaces
 - Geometric Transformations of Images
-- Image Thresholding
+- Image Thresholding (확률 통계 공부 후 Otsu's binarization 구현하기)
